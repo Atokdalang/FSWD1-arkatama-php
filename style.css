@@ -1,0 +1,30 @@
+body {
+  background-color: #000000;
+  font-family: Georgia;
+}
+h1 {
+  text-align: center;
+  color: whitesmoke;
+}
+table {
+  margin: auto;
+  border-collapse: collapse;
+  border: 1px solid whitesmoke;
+}
+th,
+td {
+  padding: 10px;
+  border: 1px solid whitesmoke;
+  color: aliceblue;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 150px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px black;
+}
